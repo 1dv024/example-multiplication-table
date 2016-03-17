@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("MultiplicationTable")]
-[assembly: AssemblyDescription("Inledande programmering med C# (1DV402)")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Linnéuniversitetet")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("MultiplicationTable")]
-[assembly: AssemblyCopyright("")]
+[assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("28d9119b-435a-49c3-b02b-8141722191c8")]
+[assembly: Guid("b0f1331e-5cb5-4773-a64c-86c04078fe35")]
 
 // Version information for an assembly consists of the following four values:
 //
